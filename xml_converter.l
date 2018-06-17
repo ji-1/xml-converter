@@ -315,6 +315,7 @@ main(void)
         i=0;
         idx=-1;
         root = NULL;
+        printf("--------------------\n");
         continue;
     }
   }
